@@ -24,6 +24,7 @@ build/
 *.pgdata
 
 # Docker
+docker-compose.yml
 docker-compose.override.yml
 .docker/
 
