@@ -22,9 +22,15 @@ The API Challenges
 
 This section lists the tasks you need to complete by creating different API endpoints (routes). 
 Each task involves writing SQL queries and using them in the API to fetch data from the PostgreSQL database:
+
 Task 1: Fetch a list of players and their scores.
+
 Task 2: Get the top 3 players with the highest scores.
+
 Task 3: Get players who haven't played any games.
+
 Task 4: Find the most popular game genres.
+
 Task 5: List players who joined in the last 30 days.
+
 Bonus Task: Fetch each player's favorite game based on the most played game.
